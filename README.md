@@ -51,11 +51,11 @@ db.alunos.insertMany([
     "endereco": { "cidade": "São Gonçalo", "estado": "RJ" }
   }
 ]);
+```
+---
 
 
 <img width="630" alt="print1" src="https://github.com/user-attachments/assets/4b2720c2-dca3-4e2a-9bd6-9287a49eb025" />
-
-
 
 
 2. Consultas Realizadas
